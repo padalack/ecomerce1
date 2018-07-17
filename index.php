@@ -1,7 +1,10 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: KallilRogério
- * Date: 17/07/2018
- * Time: 04:41
- */
+
+require_once ("vendor/autoload.php");
+
+$app= new \Slim\Slim();
+$app->config('debug',true);
+$app->get('/', function (){
+    echo "OK";
+});
+$app->run();
