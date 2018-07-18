@@ -4,10 +4,20 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitb0eb01a62f4ac058e294d532eda25abc
+class ComposerStaticInit914a9c9b0b05c59cdff624a99a848f53
 {
-    public static $fallbackDirsPsr4 = array (
-        0 => __DIR__ . '/..' . '/padalack/php-classes/src',
+    public static $prefixLengthsPsr4 = array (
+        'P' => 
+        array (
+            'Padalack\\' => 9,
+        ),
+    );
+
+    public static $prefixDirsPsr4 = array (
+        'Padalack\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/padalack/php-classes/src',
+        ),
     );
 
     public static $prefixesPsr0 = array (
@@ -41,9 +51,10 @@ class ComposerStaticInitb0eb01a62f4ac058e294d532eda25abc
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->fallbackDirsPsr4 = ComposerStaticInitb0eb01a62f4ac058e294d532eda25abc::$fallbackDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInitb0eb01a62f4ac058e294d532eda25abc::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInitb0eb01a62f4ac058e294d532eda25abc::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit914a9c9b0b05c59cdff624a99a848f53::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit914a9c9b0b05c59cdff624a99a848f53::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit914a9c9b0b05c59cdff624a99a848f53::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit914a9c9b0b05c59cdff624a99a848f53::$classMap;
 
         }, null, ClassLoader::class);
     }
