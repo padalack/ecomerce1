@@ -2,271 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a295c7d-8edb-4593-8ab1-a9e09225662a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/padalack/php-classes/src/Page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ecomerce1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecomerce1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/site/carrinho.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/site/detalhes-produto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/site/esqueci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/site/lista-produtos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/site/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/site/pagamento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/padalack/php-classes/src/PageAdmin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/padalack/php-classes/src/DB/Sql.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/padalack/php-classes/src/DB/Sql.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/DKIM.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contactform.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_multiple_file_upload.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-all.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-bootstrap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-draw-string.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-extend-class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-nested-loop.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-plugin-img-resize.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-webpage-new.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-webpage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Exception.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/IPlugin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/NotFoundException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/Compress.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/ImageResize.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/PathReplace.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/PluginContainer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/SyntaxException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/hero.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/bootstrap-alerts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/bootstrap-buttons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/bootstrap-dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/bootstrap-modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/bootstrap-popover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/bootstrap-scrollspy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/bootstrap-tabs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/bootstrap-twipsy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/less-1.1.5.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/bootstrap.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/forms.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/patterns.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/reset.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/scaffolding.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/tables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/type.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/lib/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/img/logo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/img/wysiwyg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/nested_loop/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/nested_loop/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/bottom.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/top.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bottom.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/easy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/easy_text.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/fast.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/fast_text.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/googlegroup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/home_title.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/list.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/pencil.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/search.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/top.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/useful.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/useful_text.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/wysiwyg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/wysiwyg_text.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/subfolder/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/simple/simple_template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/simple/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/test/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/test/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/Tpl/PluginContainerTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/Tpl/PluginTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/TplTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/_files/template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/README.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Environment.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/Pass.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/RequestSlash.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/Stop.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Headers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Request.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Response.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Util.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Log.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/LogWriter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/ContentTypes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/Flash.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/MethodOverride.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/SessionCookie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Route.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Router.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Slim.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/View.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/phpunit.xml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/EnvironmentTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Foo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/HeadersTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/RequestTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/ResponseTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/UtilTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/LogTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/LogWriterTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/ContentTypesTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/FlashTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/MethodOverrideTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/PrettyExceptionsTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/SessionCookieTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/MiddlewareTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/RouteTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/RouterTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/SlimTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/ViewTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/bootstrap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/templates/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/padalack/php-classes/src/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/padalack/php-classes/src/Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -311,11 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="304">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#106#121#0#PHP" expanded="true" />
               </folding>
@@ -323,16 +83,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Page.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/padalack/php-classes/src/Page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-223">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="160">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../../../../../BACK__UP/udem/WEB/PHP/2%20PHP%207/24%20Projeto%20E-Commerce%20Administra231227o%20e%20Site/102%20-%20Configurando%20Template%20do%20Site/store/store</find>
+      <find>/res/site</find>
+      <find>/res/site/</find>
+      <find>/res/site/admin/</find>
+      <find>/res/admin/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/res/site/admin</replace>
+      <replace>/res/site/admin/</replace>
+      <replace>/res/admin/</replace>
+      <replace>/res/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -345,13 +120,20 @@
         <option value="$PROJECT_DIR$/views/header.php" />
         <option value="$PROJECT_DIR$/views/index.php" />
         <option value="$PROJECT_DIR$/views/footer.php" />
-        <option value="$PROJECT_DIR$/vendor/padalack/php-classes/src/Page.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/11585642-f031-4f2c-b8f4-1ed10d0c9870/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a96d7b17-2875-4145-b919-b7edf7e7bc47/console.sql" />
         <option value="$PROJECT_DIR$/vendor/padalack/php-classes/src/DB/Sql.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/views/header.html" />
+        <option value="$PROJECT_DIR$/views/footer.html" />
         <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/vendor/padalack/php-classes/src/Page.php" />
+        <option value="$PROJECT_DIR$/vendor/padalack/php-classes/src/PageAdmin.php" />
+        <option value="$PROJECT_DIR$/views/admin/index.html" />
+        <option value="$PROJECT_DIR$/res/admin/starter.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/views/admin/footer.html" />
+        <option value="$PROJECT_DIR$/views/admin/header.html" />
       </list>
     </option>
   </component>
@@ -368,7 +150,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/res/admin/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0">
     <include_path>
@@ -402,6 +186,41 @@
             <path>
               <item name="ecomerce1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecomerce1" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecomerce1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecomerce1" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecomerce1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecomerce1" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecomerce1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecomerce1" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecomerce1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecomerce1" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="ecomerce1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecomerce1" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -421,7 +240,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="dumpAutoload D:/Projects/PHPStorm/ecomerce1/composer.json" value="--no-interaction --ansi --verbose" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.path.for.package.stylelint" value="project" />
@@ -431,10 +250,16 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\PHPStorm\ecomerce1\res\admin\bootstrap\css" />
+      <recent name="D:\Projects\PHPStorm\ecomerce1\views\admin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\PHPStorm\ecomerce1\res\admin\bootstrap" />
+      <recent name="D:\Projects\PHPStorm\ecomerce1\vendor\padalack\php-classes\src" />
+      <recent name="D:\Projects\PHPStorm\ecomerce1\res\site" />
       <recent name="D:\Projects\PHPStorm\ecomerce1\vendor" />
       <recent name="D:\Projects\PHPStorm\ecomerce1\views-cache" />
-      <recent name="D:\Projects\PHPStorm\ecomerce1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -461,7 +286,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531816822381</updated>
       <workItem from="1531816828894" duration="9936000" />
-      <workItem from="1531893584029" duration="939000" />
+      <workItem from="1531893584029" duration="5745000" />
     </task>
     <task id="LOCAL-00001" summary="1.0.0.1">
       <created>1531817403311</created>
@@ -477,11 +302,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531851978541</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.0.0.3">
+      <created>1531894807678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531894807678</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10875000" />
+    <option name="totallyTimeSpent" value="15681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
@@ -494,11 +326,12 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.5674603" />
-      <window_info anchor="bottom" id="Database Console" order="7" visible="true" weight="0.32972136" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25396827" />
+      <window_info anchor="right" auto_hide="true" id="Remote Host" order="3" weight="0.13412699" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32972136" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23571429" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" auto_hide="true" id="Database" order="3" weight="0.32936507" />
+      <window_info anchor="right" auto_hide="true" id="Database" order="3" weight="0.14920636" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -509,7 +342,6 @@
       <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32972136" />
     </layout>
   </component>
@@ -522,7 +354,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0.0.1" />
     <MESSAGE value="1.0.0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0.0.2" />
+    <MESSAGE value="1.0.0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0.0.3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -577,20 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -619,30 +438,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/res/site/esqueci.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="e#106#121#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="-384" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="116" selection-start-line="116" selection-end-line="318" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/admin/starter.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="8" selection-start-column="8" selection-end-line="3" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
-          </folding>
+          <caret selection-end-line="275" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/padalack/php-classes/src/PageAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/padalack/php-classes/src/Page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="160">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/admin/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="97" column="24" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#106#121#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
